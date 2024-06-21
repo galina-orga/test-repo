@@ -1,3 +1,5 @@
 Galina Feature.
 
 Changes for commit 1.
+
+Changes for commit 2.
